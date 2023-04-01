@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.head {
+  padding: 10px;
+  background-color: #ececec;
+  /* border: 1px solid red; */
+  width: 1000px;
+  height: 150px;
+  margin: auto;
+}
+.Tec {
+  padding: 10px;
+  width: 1000px;
+  height: 300px;
+  /* border: 1px solid red; */
+  margin: auto;
+}
+.Fondo {
+  height: 350px;
+  background-image: url("img/fototec.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -300px;
+}
+.Foto {
+  width: 122px;
+  height: 122px;
+}
+.Foto2 {
+  width: 160px;
+  height: 160px;
+}
+.Fotos {
+  margin-top: 30px;
+  width: 50px;
+  height: 50px;
+  /* Componer */
+}
+.Div2 {
+  padding: 10px;
+  text-align: center;
+}
+.Div3 {
+  /* border: 1px blue solid; */
+  background-color: #333333c2;
+  width: 400px;
+  margin: auto;
+  margin-top: 110px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.Div4 {
+  width: 840px;
+  height: 240px;
+  padding: 15px;
+  margin: auto;
+  /* border: 1px blue solid;; */
+}
+.Div5 {
+  width: 400px;
+  padding-top: 15px;
+  margin: auto;
+  /* border: 1px purple solid;; */
+}
+.Div6 {
+  width: 1000px;
+  padding: 15px;
+  margin: auto;
+  /* border: 1px green solid;; */
+}
+.Div7 {
+  margin-left: -15px;
+}
+.Div8 {
+  width: 1000px;
+  height: 200px;
+  background-color: #800000;
+  margin: auto;
+}
+.Div9 {
+  /* border: 1px blue solid; */
+  margin: 30px 150px 0px 0px;
+}
+.Div10 {
+  /* border: 1px blue solid; */
+  margin: 20px 0px 0px 200px;
+}
+.Btn {
+  text-decoration: none;
+  background-color: #800000;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5px;
+  display:inline-block;
+}
+.Fachada {
+  width: 385px;
+  height: 200px;
+}
+td {
+  padding: 5px;
+}
+.Der {
+  float: right;
+}
+.Izq {
+  float: left;
+}
+.Color {
+  color: white;
+}
+.Color2 {
+  color: #cc9900;
+}
+.Color3 {
+  color: #800000;
+}
+.Fuen {
+  font-family: helvetica;
+}
+.negritas {
+  font-weight: bold;
+}
+.justific {
+  text-align: justify;
+}
+.right {
+  text-align: right;
+}
+.Center {
+  text-align: center;
+}
+.Tam26 {
+  font-size: 26px;
+}
+.Tam20 {
+  font-size: 20px;
+}
